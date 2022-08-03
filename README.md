@@ -16,6 +16,7 @@ taro init myApp
 ```
 
 ## 项目结构目录
+```json
 ├── dist                        编译结果目录
 |
 ├── config                      项目编译配置目录
@@ -44,6 +45,7 @@ taro init myApp
 ├── .eslintrc                   ESLint 配置
 |
 └── package.json
+```
 
 ## 在微信小程序中使用 ECharts
 
