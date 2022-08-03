@@ -16,7 +16,7 @@ taro init myApp
 ```
 
 ## 项目结构目录
-```json
+```js
 ├── dist                        编译结果目录
 |
 ├── config                      项目编译配置目录
